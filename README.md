@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivek</h1>
 <h3 align="center">Game modding and Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpapercat.com/w/full/2/a/2/130458-3840x2160-desktop-4k-grand-theft-auto-5-background.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivek21&label=Profile%20views&color=0e75b6&style=flat" alt="ivek21" /> </p>
 
 - 🔭 I’m currently working on [FiveM](https://fivem.net)
