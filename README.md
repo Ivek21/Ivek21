@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/0406c8824836a3b5c27e668e8233c113/tumblr_o86qpa3FI71txj8weo4_500.gif)](https://discord.gg/summitroleplay)
+[![MasterHead](https://s3-gallery.int-cdn.lcpdfrusercontent.com/monthly_2020_05/large.Animation3.gif.59673d5339f6d008cb6b4e6358c9286b.gif)](https://discord.gg/summitroleplay)
 <h1 align="center">Hi 👋, I'm Ivek</h1>
 <h3 align="center">Game modding and Web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivek21&label=Profile%20views&color=0e75b6&style=flat" alt="ivek21" /> </p>
