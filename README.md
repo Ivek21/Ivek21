@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [FiveM](https://fivem.net)
 
-- 🌱 I’m currently learning **JS,TS**
-
 - 💬 Ask me about **lua,html,css,py issues**
 
 - 📫 How to reach me **discord - ivekk/Ivek#0002**
