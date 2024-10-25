@@ -1,4 +1,4 @@
-[![MasterHead](https://s3-gallery.int-cdn.lcpdfrusercontent.com/monthly_2020_05/large.Animation3.gif.59673d5339f6d008cb6b4e6358c9286b.gif)](https://discord.gg/summitroleplay)
+[![MasterHead](https://s3-gallery.int-cdn.lcpdfrusercontent.com/monthly_2020_05/large.Animation3.gif.59673d5339f6d008cb6b4e6358c9286b.gif)](https://discord.gg/DMW6wxBHtS)
 <h1 align="center">Hi 👋, I'm Ivek</h1>
 <h3 align="center">Game modding and Web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivek21&label=Profile%20views&color=0e75b6&style=flat" alt="ivek21" /> </p>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zaradich331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaradich331" height="30" width="40" /></a>
-<a href="https://discord.gg/summitroleplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="summitroleplay" height="30" width="40" /></a>
+<a href="https://discord.gg/DMW6wxBHtS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="summitroleplay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
